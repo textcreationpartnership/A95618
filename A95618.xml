@@ -1,0 +1,390 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lamentable representation of the effects of the present toleration. Especially as to the increase of blasphemy and damnable errours by the liberty of teaching and printing of them, to the great damage of religion, and the provoking the Lord Jesus to destroy the present government, and to inflict ruine and desolation upon these nations. Together with a proposal of some good work for Christian legislators. Humbly laid at the feet of His Highness the Lord Protector, and every member of the High Court of Parliament. / By a friend of true reformation, and his native countrey.</title>
+            <author>U.T.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95618</idno>
+            <idno type="STC">Wing T64</idno>
+            <idno type="STC">Thomason E891_5</idno>
+            <idno type="STC">ESTC R203702</idno>
+            <idno type="EEBO-CITATION">99863557</idno>
+            <idno type="PROQUEST">99863557</idno>
+            <idno type="VID">115762</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95618)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115762)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 134:E891[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lamentable representation of the effects of the present toleration. Especially as to the increase of blasphemy and damnable errours by the liberty of teaching and printing of them, to the great damage of religion, and the provoking the Lord Jesus to destroy the present government, and to inflict ruine and desolation upon these nations. Together with a proposal of some good work for Christian legislators. Humbly laid at the feet of His Highness the Lord Protector, and every member of the High Court of Parliament. / By a friend of true reformation, and his native countrey.</title>
+                  <author>U.T.</author>
+               </titleStmt>
+               <extent>[6], 25, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for Thomas Underhill at the Anchor and Bible in Pauls Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: U.T.</note>
+                  <note>Includes an account of the prosecution of John Biddle for blasphemy.</note>
+                  <note>Annotation on Thomason copy: "October 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Biddle, John, 1615-1662.</term>
+               <term>Religious tolerance --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115762:1"/>
+            <pb facs="tcp:115762:1" rendition="simple:additions"/>
+            <p>A Lamentable REPRESENTATION of the Effects of the preſent TOLERATION.</p>
+            <p>ESPECIALLY As to the increaſe of Blaſphemy and Damnable Errours by the Liberty of Teach<g ref="char:EOLhyphen"/>ing and Printing of them, to the great Damage of RELIGION, and the provoking the Lord JESUS to deſtroy the preſent Government, and to inflict Ruine and Deſolation upon theſe NATIONS.</p>
+            <p>Together with a Propoſal of ſome good Work for Chriſtian Legiſlators.</p>
+            <p>Humbly laid at the feet of His Highneſs the Lord PROTECTOR, and every Member of the High Court of PARLIAMENT.</p>
+            <p>By a Friend of true Reformation, and his Native Countrey.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. M.</hi> for <hi>Thomas Underhill</hi> at the Anchor and Bible in <hi>Pauls</hi> Church-yard, 1656.</p>
+         </div>
+         <div type="admonition">
+            <pb facs="tcp:115762:2"/>
+            <pb facs="tcp:115762:2"/>
+            <head>TO His Highneſs OLIVER Lord PROTECTOR, AND THE Knights, Citizens and Burgeſſes convened in PARLIAMENT at <hi>Weſtminster.</hi>
+            </head>
+            <opener>
+               <salute>High and mighty Sirs,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe things hereafter following con<g ref="char:EOLhyphen"/>cern you above all men in the world; the reward from God of good Laws againſt evil, and for the promoting of goo, ſhall be the Law makers, beſides their ſhare in the common benefit of them. The ſin of not making good Laws againſt ſin will be yours, and all the ſins that ſhall be committed by others for want of
+<pb facs="tcp:115762:3"/>ſuch Laws will be yours, and therefore alſo a larger ſhare in the common calamities enſuing, if having opp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtunity you notwithſtanding on it the ſame. And how often doth God puniſh a people for the ſins of their Rulers? How then can I hold my peace (being convinced that to ſpeak is my duty) and yet love God, You, or my Countrey? Almost every individual man of you, when occaſion is offereed, being apart among your friends (I preſume) approves of most of the things moved for in theſe papers. Oh that God would keep thoſe evil ſpirits out of your Aſſem<g ref="char:EOLhyphen"/>bly that may hinder you, being met together, to ſpeak them thrice over into a Law, that may be heard all the world over; and that may ſufficiently evidence that in <hi>England</hi> we have a Chriſtian Protestant Protector and Parliament. Certainly, the ſincere promoting of Chriſts intereſt is the ſureſt bulwark to a Nation What Princes, Govern<g ref="char:EOLhyphen"/>ments, People, did God ever deſtroy, but he upbraided them, or might have done, with falſneſs to him and his intereſt? I move no for perſecuting the Godly, the Sons of <hi>Zion,</hi> the Generation of the Righteous, but for the puniſhment of apparent evil doers, that are Gods and your enemies, at leaſt that they may be hindred from rui<g ref="char:EOLhyphen"/>ning the ſouls of others mention not ſmall matters, but ſuch as conſiſt not with Godlineſs in the ſame ſubject, nor with the peace and welfare of Church or State. Shall ſuch be tolerated? The Letter from the General meeting of Officers at <hi>James</hi>'s to all the Souldiers, <hi>Jan. 28. 1652.</hi> profeſs their deſire of protection in worſhip to be given only to all the truly godly, they plead for none elſe. If the Laws againſt prophane ſwearing and Sabbath-breaking be good, the you would do well to make Laws againſt other, as great or greater breaches of the firſt Table, or elſe repeal the former. What ſhall, what can men ſay or think, if
+<pb facs="tcp:115762:3"/>the Protector and Parliament meet, and fit, and riſe, and part without acting for Chriſt againſt Hell and <hi>Rome,</hi> in ſuch a time as this, when the powers of both are ſet upon deſtroying us with damnable Doctrines and Diviſions? If holy <hi>Jewel, Cartwright Raynolds Whitaker Per<g ref="char:EOLhyphen"/>kins, Preſton, Ball, Dod, Sibs</hi> of Old England, and <hi>Cotton</hi> and <hi>Hooker</hi> of New ſhould riſe from the dead, and ſee what abominations are allowed of in this Land; with what a torrent, Blaſphemy, Errour and Prophaneneſs runne over theſe Nations without any effectual controll, they could not but question, What men govern'd <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> of what Nation of what <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eligion they were of; And what was become of the children of thoſe who through their Miniſtry were principled with ſound Judg<g ref="char:EOLhyphen"/>ments and Zeal for God.</p>
+            <p>
+               <hi>Moſt honoured Sirs,</hi> Shall I fancy this attempt of mine bold and dangerous? No, for it's Duty and ſer<g ref="char:EOLhyphen"/>vice to you. However I conceive a man is not capable of ſuffering in a better Cauſe; I have great hopes that the great God (in whoſe hands are the hearts of Kings and Rulers) is ſo dealing with the heart of the Lord Protectors Highneſs, and the members of the Parlia<g ref="char:EOLhyphen"/>ment, that they will not ſpeak a word for the intereſt of the grand enemies of mankinde, but readily own and promote any motion that ſo nearly tends to the advancement of the Intereſt of Christ, to the fur<g ref="char:EOLhyphen"/>therance of the Goſpel; And that God hath brought you together at this time to be the repairers of our breaches. Bleſſed be God for the great mercies his people enjoy under, and by means of the preſent Government; The Lord incline you to make up what is wanting. I have not let a word fall of diſapproving your joyning toge<g ref="char:EOLhyphen"/>ther as one, in acting for the Civil Welfare of the
+<pb facs="tcp:115762:4"/>preſent Government, and of theſe Nations, againſt all the enemies thereof, whether domeſtick or forreign; My fear of Gods blaſting all ſuch endeavours, if theſe greater things be neglected, put me upon this attempt. I pray unto God that you may approve your ſelves Nur<g ref="char:EOLhyphen"/>ſing Fathers to his people under you, and that you may not ſuffer wicked Nurſes, pretending to be feeders of Souls, to give them poyſon in ſtead of the ſincere milk of the Word.</p>
+            <closer>
+               <signed>Your Remembrancer at the throne of Grace <hi>U.T.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:115762:4"/>
+            <head>A Lamentable Repreſentation of the Effects of the preſent TOLERATION.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Am not ignorant or inſenſible, how ſtrange the thoughts, and different the expectations of men will be at firſt ſight concerning the Contents of theſe few following pages: But I am not in the leaſt ſolicitous how to pleaſe any, but profit all: I come not with the fictions of diſtempered brains, or to promote any of the parties of this divided Age, but in the words of Truth and plainneſs to propound matter of Univerſal concern<g ref="char:EOLhyphen"/>ment to all the Inhabitants of theſe three Nations of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland,</hi> and <hi>Ireland,</hi> who have any love to the King<g ref="char:EOLhyphen"/>dom of Chriſt on Earth, and have any hopes of being re<g ref="char:EOLhyphen"/>ceived into his Kingdom of heaven, that have any bowels of affection towards the ſouls of their Countreymen, or the little children of their loyns (eſpecially the great ones, The Lord Protector, the Parliament, the Councel of State, and the Commanders of the Army) all that are not given up to ſuch ignorance and heedleſneſs in obſervance, as not to ſee the preſent evils, and the danger we are in of Gods deſtroying us, or that like <hi>Gallio regard not theſe things.</hi> O that they would conſider what a lamentable Condition theſe Nations are in, not only in reſpect of the preſent evils that are upon us, but alſo of the ſymptoms of utter ruine to the preſent Government, the Laws of the Land, and true
+<pb n="2" facs="tcp:115762:5"/>Chriſtianity it ſelf, beſides ſome ſweeping plague or other from the hand of an angry God upon ſo wicked a people, and ſet themſelves, every man in his place, to ſtand in the gap, to keep off the miſeries that are coming upon us.</p>
+            <p>Who of us can plead ignorance of the Popiſh Deſign, laid long ſince, of procuring great Diviſions among us, by Jeſuites and other Emiſſaries of <hi>Rome,</hi> to the end we may deſtroy one another, or be unable to reſiſt a forreign Pow<g ref="char:EOLhyphen"/>er; alſo that men may be brought thereby to queſtion their Religion, ſlight the Miniſtry and Learning, the Bulwarks thereof under God; and to take us off from the Scripture, under pretence that it's a dead letter, not the Word of God, unable to determine matters of faith, that ſo we may ſeek for a ſtanding Judge without it, which Antichriſt is well content ſhall be every mans own fancy (though in op<g ref="char:EOLhyphen"/>poſition to the cleareſt Scripture-evidence) coloured over with fine names (as the voice of Conſcience, the Light of Chriſt within, Chriſt in us, the Spirit in us, the teachings, yea the immediate teachings of the Spirit within us, the teachings of God) untill the number of thoſe who have thus loſt their Religion be ſo great, the fallibility and deceit<g ref="char:EOLhyphen"/>fulneſs of their Judges (every mans own fantaſie) and con<g ref="char:EOLhyphen"/>trariety one to another, ſo obvious, as that there will be a neceſſity of imbracing the deciſion of ſome viſible ſtanding Judge as an infallible Dictator, by all thoſe ſo deluded, as afore-ſaid, who have left upon them any conſiderable ſenſe of a God, a Heaven, and a Hell for men after this life, but have loſt the true Rule and Judge, and ſo the means and way to eſcape the one, and get to the other; Which of you can be ignorant of this Deſign, and how vigorouſly it hath been carried on, and yet is, unto great ſucceſs without any conſiderable ſuitable oppoſition?</p>
+            <p>In the late Kings dayes Popery was ſo abhorred, and <hi>Ar<g ref="char:EOLhyphen"/>minianiſm</hi> likewiſe, and the later the more, becauſe ſuſpe<g ref="char:EOLhyphen"/>cted to be a bridge to the former, that to put a ſtop to both, was the greateſt inducement that prevailed with the genera<g ref="char:EOLhyphen"/>lity of the ſincereſt Pro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſors of Chriſtianity in the Land, to take up Arms, and venture their Eſtates, Lives, and all
+<pb n="3" facs="tcp:115762:5"/>that was dear to them under the Banner of the two Houſes of Parliament. And before that warre, how were the very beginnings of thoſe evils banded againſt in ſeveral Parlia<g ref="char:EOLhyphen"/>ments, to the no ſmall detriment of many worthy Patriots, from the Court and <hi>Canterburian</hi> party? But alas, what were thoſe ſmall ſeeds of Errour to our harveſt of Blaſphe<g ref="char:EOLhyphen"/>my! Oh the wofull ſucceſs that the envious man hath had in his ſowing the Tares of Blaſphemy, Errour, and ill Man<g ref="char:EOLhyphen"/>ners in the field of this Commonwealth, while the Husband<g ref="char:EOLhyphen"/>men have been aſleep!</p>
+            <p>So great hath been the falling off to the Blaſphemies and Hereſies of <hi>Papiſts, Socinians</hi> and <hi>Quakers,</hi> and to the contempt of the Miniſtry and Ordinances of our Lord Jeſus Chriſt within theſe ſeven years laſt paſt, that ſhould the contagion of thoſe plagues continue to infect perſons of all ranks and Sexes a few years longer after the ſame rate of ſucceſs (and probably it will much more, or ſome other Judgement befall us in ſtead of it, if yet the Magiſtrate lay it not to heart) It will no doubt endanger both Miniſtry and Magiſtracy, the Oracles of God, and the Laws of the Land; Who may not but ſee that the growth of Errour, and Diviſion thereby, threatens another bloudy Warre, both from home and abroad? And if the men of theſe abomina<g ref="char:EOLhyphen"/>tions ſhould prevail, either by Vote or Sword, then fare<g ref="char:EOLhyphen"/>well <hi>Englands</hi> hoped for happineſs. Our long Reforming Commonwealth will prove <hi>Pagan,</hi> or at the beſt <hi>Popiſh,</hi> for <hi>Quakers</hi> and <hi>Socinians</hi> are ſcarcely deſerving the name of Chriſtians, and if they be out-witted the Jeſuite will wear the Laurel.</p>
+            <p>That the Enemies of Religion do thus encreaſe, is plain; For the men almoſt of every Countrey can tell how they ſwarm, &amp; are ſo bold as to meet by hundreds and thouſands, labouring to infect all they come near, compaſſing Sea and Land, and ſparing no coſt, that they may gain Proſelytes. The <hi>Socinians</hi> publiſh their Blaſphemies, and teach them openly in their Aſſemblies, and ſo do the <hi>Quakers.</hi> I went once to the meeting at Glaſiers-Hall in <hi>Thames</hi>-ſtreet, where a great company was aſſembled, and from my coming into
+<pb n="4" facs="tcp:115762:6"/>them for a quarter of an hour, there was not one word ſpoken by any, but ſuch hideous, inharmonious howlings, groanings and skreekings (the like I think not to be heard, except in Hell) filled mine ears, that I could not but con<g ref="char:EOLhyphen"/>clude that they were poſſeſſed with Devils, and in ſome fear I began to give back but (Reaſon and Scripture having ſhewed me before I came, my Gods approbation of my com<g ref="char:EOLhyphen"/>ing thither in order to an endeavour of ſuppreſſing ſuch ſervice of Devils) by ſaith I received ſtrength from my Lord to ſtand to it; then one advanced upon a bench, and ſpake very wickedly, teaching the people, That the Scri<g ref="char:EOLhyphen"/>pture was not the Rule, but the light within them that was in every man that came into the world, and that our Mini<g ref="char:EOLhyphen"/>ſters were Ignorant, Carnal, Deceivers, <hi>&amp;c.</hi> And af<g ref="char:EOLhyphen"/>ter I had endeavoured to undeceive the people, I left them.</p>
+            <p>If any would with their own eyes (who yet have not) be<g ref="char:EOLhyphen"/>hold the whoriſh fore-head of theſe times, that have with<g ref="char:EOLhyphen"/>out ſhame bid defiance to God and man, blaſphemed both divine and humane Majeſty, belied the Truth, and ſcoulded with the Meſſengers of the Lord with moſt helliſh language, they may caſt an eye upon the two Beacons fired by thoſe honeſt, moderate Stationers, who took not the leaſt notice of Presbytery, Anabaptiſm, or Independency, as ſuch, and yet were waſpiſhly barkt at by ſome from whom better car<g ref="char:EOLhyphen"/>riage might juſtly have been expected. Theſe two peeces will ſhew them, that in two or three years backward from the time of their publiſhing of them, ſo many Popiſh Books in <hi>Engliſh</hi> had been printed and publiſhed in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and printed in <hi>London</hi> of their knowledge, as amount<g ref="char:EOLhyphen"/>ed to by a rational computation thirty thouſand, and pro<g ref="char:EOLhyphen"/>bable it is that the number was as many more; ſince which time I have ſeen eight and twenty ſeveral ſorts of Popiſh Books, which were not named in the Beacons fired, being ſome Devotional, others perſwading to Popery, as full of Errour and Superſtition, as Popiſh Books uſe to be, all printed within the ſpace of theſe three or four years laſt paſt or thereabout, in the <hi>Engliſh</hi> Tongue, and of my
+<pb n="5" facs="tcp:115762:6"/>knowledge in <hi>England,</hi> and conſequently in <hi>London,</hi> I be<g ref="char:EOLhyphen"/>ing one of them that dare profeſs themſelves to know what Prints are of <hi>England,</hi> and which not, and reckoning to each Book an Impreſſion of fifteen hundred, which is an ordinary Impreſſion, the whole number of the Popiſh Books printed in the ſaid time,
+<note place="margin">
+                  <hi>Q.</hi> Whether here be not too ſhort reckon<g ref="char:EOLhyphen"/>ing? I think it is rather ſe<g ref="char:EOLhyphen"/>venty two thouſand in all.</note> whereof theſe eight and twenty are a part, amounts unto fourty four thouſand. And it being ſo difficult for me to get the ſight of ſuch Books, its probable there have been as many more printed and pub<g ref="char:EOLhyphen"/>liſhed. The Names and Contents of theſe eight and twenty Books, I forbear ſpecifying, leſt by my light ſome ſhould be guided to buy them, that may catch much hurt by them. And if I ſhould have ſet down the Names and Contents of every Popiſh, blaſphemous, and otherwiſe ungodly Books that hath come abroad within theſe two laſt years, it would make this Repreſentation too large, either for me to write, or any man to reade that hath not more time, or buſineſs of leſs concernment than my ſelf, or thoſe to whom it is chiefly intended.</p>
+            <p>They publiſh their Blaſphemies and Errours in printed Pamphlets, which they diſperſe all theſe Lands over, in ſuch abundance, as is incredible almoſt, every week bringing forth ſeveral Chapters of an Anti-Bible, much worſe than the Turkiſh Alcharon, which probably are printed, or paid for after they are printed by a General Bank; for ſuch is the contrivance, that thoſe that are ſold, are ſold cheaper than Books ever uſed to be ſold theſe many years, and ma<g ref="char:EOLhyphen"/>ny hundreds, if not thouſands of many of them gi<g ref="char:EOLhyphen"/>ven away, and left at houſes, by Agents which they have in every County, to perform both the one way of diſper<g ref="char:EOLhyphen"/>ſing, and the other, by ſale and gift, with indefatigable di<g ref="char:EOLhyphen"/>ligence, ſuitable enough both to the Devotion and Policy of the Grand Juncto of Jeſuites, who (we may rationally judge) as they project and counſel theſe courſes, ſo do they like well theſe proceedings, and ſay, Ha, ha, ſo would we have it.</p>
+            <p>I do not doubt but it can be proved, that this laſt year, there came forth in Print two Books every week one with
+<pb n="6" facs="tcp:115762:7"/>another, that are either Blaſphemous, Heretical, Seditious or Obſcene (having a direct tendency to un Chriſtian and uncivilize all the Youth of the Land) beſides many Popiſh Books; and ſuppoſing that but a thouſand of a ſort were printed (as no doubt we may allow ſo many to each Impreſſion, for though it may be but five hundred of ſome of them were printed, yet fifteen hundred of others of them, and ſome of them have been printed two or three times) the number then of ſuch Books as were printed this laſt year amounts to 104000, which is twice the num<g ref="char:EOLhyphen"/>ber of what Bibles have been ſold in that time in all theſe three Nations. And by this (were there no other demon<g ref="char:EOLhyphen"/>ſtration) it is manifeſt that the increaſe of Quakers, and other Antichriſtian and Anti-magiſtratical perſons, is very great, and no leſs is the danger from them, which indeed is the greater, by how much the leſs they are feared. or by how much the more they are ſlighted. Can leſ, be expect<g ref="char:EOLhyphen"/>ed than open oppoſition (by force of Arms) to Magiſtra<g ref="char:EOLhyphen"/>cy and Miniſtry from ſuch men, when their number and advantages ſhall concur, who generally ſo ſlight the one, as not accounting it fit for ſo much honour, as a Cap or Ti<g ref="char:EOLhyphen"/>tle of civil reſpect doth ſignifie, and malign the other ſo much, as the names of enemies of God, Heathens, <hi>Baals</hi>-Prieſts, Murtherers, Sorcerers, Witches, Conjurers, Devils, <hi>Aegyptians, Sodomites,</hi> Fire brands of Hell, <hi>&amp;c.</hi> do imply?</p>
+            <p>The Books of the <hi>Quakers</hi> are ſo well known, that any may eaſily be informed what their Opinions and Blaſphe<g ref="char:EOLhyphen"/>mies are, many of them (as well as <hi>Socinians, Seekers, Le<g ref="char:EOLhyphen"/>vellers</hi>) are ſet down in the <hi>Second Beacon Fired,</hi> I ſhall only name the drift of one Book, which came forth this Year 1656, and ſold very much, entituled, <hi>A Cloud of Witneſſes, That Chriſt Jeſus is the Word of God, and not the Bible, which is called the Scriptures,</hi> made by <hi>Henry Clark,</hi> and printed by <hi>Giles Calvert;</hi> in which blaſphemous Book there is a great ſhew of Argumentation, managed with no ſmall craft and ſubtilty to make out the thing undertaken, alſo reviling and jeering the Miniſters for calling it the word
+<pb n="7" facs="tcp:115762:7"/>of God, when they take their Text out of it, or quote it for the proof of any thing they deliver: The words of the Book are theſe, <hi>Pag.</hi> 3. <hi>lin.</hi> ult. <hi>But the blinde Guides, the Prieſts of</hi> England, <hi>that preach for Tythes, Hire, Gifts and Rewards, they do teach the people, and ſay, Hearken to the Word of the Lord, as it is written in a Chapter and a verſe.</hi> Pag. 6. lin. 28. <hi>Do not hearken any longer to the blinde Guides, the Prieſts, which crie, Lo here, Hearken to the word of the Lord, ſaith one, as it is written in the Chapter and the verſe; Lo here, ſaith another, Hearken to the Word of the Lord, as it's written in this Chapter, and this verſe: See here, ſaith one, it is written in this Chapter and this verſe: See here, ſaith another, as it's written in this Chapter and this verſe. But they are falſe Prophets riſs up to ſeduce, if it were poſſible, the very Elect, but ſaith Chriſt, Go not forth, believe them not, the Kingdom of Heaven is within you, the Law is written in the heart.</hi> And with half an eye one may ſee the Spirit of <hi>Rome</hi> and <hi>Spain</hi> guiding this Authours paw, which becauſe it cannot deprive us of our Bibles here, as it doth the people of thoſe Dominions, hath alwayes labour<g ref="char:EOLhyphen"/>ed by throwing lies and ſlanders upon it, to work us to ſuch a diſeſteem of it, as voluntarily to diſown it: For <hi>Pag.</hi> 3. <hi>lin.</hi> 32. he tels us. <hi>That ſince the firſt giving of the Scriptures forth, they have been tranſlated by private Interpreters into many Languages, and the many Languages have ſeveral Co<g ref="char:EOLhyphen"/>pies of their private Interpretations, with ſome words added to, and ſome words left out.</hi>
+            </p>
+            <p>To theſe great evils may be added, the Atheiſm, Igno<g ref="char:EOLhyphen"/>rance, Prophaneneſs, Beaſtiality, Rebellion (againſt Su<g ref="char:EOLhyphen"/>periours) of ſo great a part of the people in <hi>England,</hi> both old and young, farre exceeding the wickedneſs of former times, which if let alone, <hi>England</hi> will prove a fruitfull nurſery of Traitors, Murtherers, Beggars, Thieves, and hereby we ſhall bring down wrath from Heaven upon the Land.</p>
+            <p>It is reported by our own Countreymen that have travel<g ref="char:EOLhyphen"/>ed in other Lands, That <hi>England</hi> is by ſtrangers noted to be as infamous for uncleanneſs, as <hi>Venice</hi> it ſelf.</p>
+            <pb n="8" facs="tcp:115762:8"/>
+            <p>The Cauſes of all this wrath of God poured out upon the Land (for to be given up to ſuch wickedneſſes, or for a Land to be defiled with ſuch abominations, are judgements as well as ſins) is next to the policy of Hell and <hi>Rome,</hi> The ſins of the Land.</p>
+            <p n="1">I. The ſins of every individual perſon, either in reject<g ref="char:EOLhyphen"/>ing the Goſpel, and eaſie yoke of Chriſt, deſpiſing his Em<g ref="char:EOLhyphen"/>baſſadours, or not being zealous in promoting Piety and Truth in our ſelves and others, in oppoſition to lukewarm<g ref="char:EOLhyphen"/>neſs, and fond indulgence toward thoſe over whom we have Authority, or in whom we have any intereſt, or not mourn<g ref="char:EOLhyphen"/>ing for the ſins of others which we could not prevent, or in not being thankfull for mercies received, both Perſonal and National, and fruitfull in good works under the enjoy<g ref="char:EOLhyphen"/>ment of them.</p>
+            <p>Upon this occaſion, I ſhall name one famous mercy, which I fear moſt men have not ſeriouſly laid to heart, and been thankfull unto God for; ſure I am, he hath been very little publickly praiſed, though it was a publick mercy, and as great a one to theſe Nations as the Deliverance from the Powder-plot.</p>
+            <p>After the late King was cut off and the long Parliament diſſolved, there was a ſtrange Linſey wolſey mixture of men of ſeveral intereſts, and different Opinions, woven toge<g ref="char:EOLhyphen"/>ther in a new faſhioned Parliament; The <hi>major</hi> part we feared (and juſtly) were enemies to the Miniſtry, Univer<g ref="char:EOLhyphen"/>ſities, and to all Magiſtracy too that ſhould not reſide in themſelves or their party. The Government was unſetied, and the hearts of all ſober, intelligent Chriſtians filled with fears of ſudden ruine to true Religion, from that Aſſembly; Some being known enemies, and moſt of the reſt no known friends, the then General alſo thinking meet for a time to conceal which ſide he would take. The better (I ſhould ſay the greater) half of that Parliament being reſolved to put down the very Office of the Miniſtry, take away Tythes, and the Revenues of the Univerſities, enlarge the Toleration (for ought we know) unlimitedly. At which time, ſetting aſide the General, the Scales were even, nay
+<pb n="9" facs="tcp:115762:8"/>rather worſe, for the worſt end was the heavier; And was not this a ſad time of imminent danger? Had they all uni<g ref="char:EOLhyphen"/>ted, or the one half of them but headed, we had been ru<g ref="char:EOLhyphen"/>in'd, except preſerved by a miracle. At this time there wanted nothing but the removal of the General, or his clo<g ref="char:EOLhyphen"/>ſing with the Antichriſtian crue: But this time of Extre<g ref="char:EOLhyphen"/>mity was Gods Opportunity; God divided our Enemies, and engaged the heart of the Lord General to joyn with that Par<g ref="char:EOLhyphen"/>ty which made a good profeſſion of Love, and Reality of Af<g ref="char:EOLhyphen"/>fection to the Miniſtry, their Maintenance, and the Uni<g ref="char:EOLhyphen"/>verſities, who took an opportunity, though they were the <hi>minor</hi> part, if the Houſe had been full, to break up that Meeting, to their perpetual Honour, and ſo we were deli<g ref="char:EOLhyphen"/>vered; The Lord pardon our unthankfulneſs for this great Deliverance, and make us Thankfull for the future, and our children after us.</p>
+            <p n="2">II. The ſins of the Supreme Magiſtrates in ſuffering too much their Children, their Family, the People under their command, to do what they liſt, in theſe reſpects, contrary to the end of Government Certainly, the Magiſtrate doth (at leaſt) interpretatively allow of theſe evils, while he omits by good Laws to reform theſe things, or ſo liſps that he cannot be underſtood. I ſhall here preſume to aſſert,</p>
+            <p n="1">1. That there is either no Law againſt Blaſphemy and Hereſie, or elſe the Law is ſo dark and queſtionable, that it's taken for granted, by moſt that are chiefly concern'd, that there is a Univerſal Toleration, except of publick Maſs.</p>
+            <p n="2">2. Nor any Law or Ordinance in Force againſt the licen<g ref="char:EOLhyphen"/>tiouſneſs of the Preſs.</p>
+            <p n="3">3. Nor againſt any mans being and doing almoſt what himſelf will in matters of Religion, Every man may learn Gods Word, or not learn; Hear it, or not hear it; Go to Church, or ſtay at home; Profeſſe the Truth, or hold forth Errour, or neither.</p>
+            <div type="part">
+               <pb n="10" facs="tcp:115762:9"/>
+               <head>Of Blaſphemy and Errour.</head>
+               <p>As concerning the firſt: It is true, that there is an Act of Parliament of <hi>Auguſt</hi> 9<hi rend="sup">th</hi>, 1650. againſt the Blaſphemies of the Ranters, which alone hath quite vanquiſhed all that way and manner of Blaſpheming, by the dread of it, though ſcarce ever any perſon ſuffered the penalties of it; <hi>A HAPPY ACT IT WAS.</hi> And it is as true, That there is an Ordinance of the Lords and Commons of the 2<hi rend="sup">d</hi> of <hi>May,</hi> 1648. very full againſt the <hi>Socinian</hi> Bla<g ref="char:EOLhyphen"/>ſphemies. But the Inſtrument of the preſent Government, ſeems to repeal that Act, and that Ordinance, and all other Laws whatſoever that lay reſtraint upon men, as to their Opinions, and the profeſſing of them, if any other were in being at the making thereof. The words of the Inſtrument are theſe,</p>
+               <floatingText xml:lang="eng" type="document_excerpt">
+                  <body>
+                     <div n="37" type="article">
+                        <head>
+                           <hi>ARTICLE</hi> XXXVII.</head>
+                        <p>
+                           <hi>That ſuch as profeſſe</hi> Faith in God by Jeſus Chriſt <hi>(though differing in Judgement from the Doctrine, Worſhip and Diſci<g ref="char:EOLhyphen"/>pline, publickly held forth) ſhall not be reſtrained from, but ſhall be protected in the Profeſſion of the Faith, and Exerciſe of their own Religion, ſo as they abuſe not this Liberty to the civil injury of others, and to the actual Di<g ref="char:EOLhyphen"/>ſturbance of the Publick Peace on their parts: Provided this Liberty be not extended to Popery or Prelacy, nor to ſuch as under the Profeſſion of Chriſt, hold forth and pra<g ref="char:EOLhyphen"/>ctiſe</hi> Licentiouſneſs. <hi>And</hi>
+                        </p>
+                     </div>
+                     <div n="38" type="article">
+                        <head>
+                           <hi>ARTICLE</hi> XXXVIII.</head>
+                        <p>
+                           <hi>That all Laws, Statutes, Ordinances, and Clauſes in any Law, Statute, and Ordinance to the contrary of the aforeſaid Liberty, ſhall be eſteemed as null and void.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+               <p>So that if any man ſhould proſecute a Blaſphemer upon either the fore-ſaid Act or Ordinance, or upon any other Law (if any were in force at the making of the Inſtrument, as it's believed there was none) all would depend upon the
+<pb n="11" facs="tcp:115762:9"/>Judgement of the Court (where the Cauſe is tried) of the ſenſe or extent of thoſe words in the Inſtrument, <hi>viz.</hi> Art. 37. <hi>Such as profeſſe Faith in God by Jeſus Chriſt: And pro<g ref="char:EOLhyphen"/>vided this Liberty be not extended to Popery,</hi> &amp;c. <hi>Nor to ſuch as under the Profeſſion of Chriſt hold forth and pra<g ref="char:EOLhyphen"/>ctiſe Licentiouſneſs.</hi>
+               </p>
+               <p>And though it may be the opinion of one Judge and Court, that it is not the intent of the Inſtrument to repeal any Law, or clauſe of a Law againſt Blaſphemy, yet it may not be the opinion of another, but the clean contrary. Beſides, it is a great Queſtion, Whether an Ordinance of the Lords and Commons be in force, and did not ex<g ref="char:EOLhyphen"/>pire with the Parliament that made it? Which was one of <hi>Biddle</hi>'s Pleas.</p>
+               <p>It may charitably be preſumed, that the Lord Protector his Highneſs, did doubt, whether the Seſſions of Peace for <hi>London,</hi> would in the Caſe of <hi>John Biddle</hi> adjudge the fore<g ref="char:EOLhyphen"/>ſaid Ordinance of <hi>May</hi> 2<hi rend="sup">d</hi>, 1648. (upon which he was in<g ref="char:EOLhyphen"/>dicted) to be in force, notwithſtanding the Inſtrument of Government, and that therefore he the Lord Protector did with the Advice of his Councel remove <hi>Biddle</hi> by a ſpecial Warrant from Newgate, before Judgment, unto the Iſle of <hi>Silly,</hi> there to be kept cloſe-priſoner (to hinder him from infecting the people with his damnable Opinions) notwith<g ref="char:EOLhyphen"/>ſtanding the Petition of his Diſciples and Abettors (ſtyling themſelves to be of ſuch and ſuch a Church) for his enlarge<g ref="char:EOLhyphen"/>ment.</p>
+               <p>And becauſe I have mentioned <hi>Biddle</hi>'s Caſe, I think it not amiſs to give this brief Accompt of him and it, that any that deſire it may know what's become of him, and his Tryal.</p>
+               <p>On <hi>June</hi> 28<hi rend="sup">th</hi>, 1656. <hi>John Biddle</hi> engaged himſelf in a Diſputation in <hi>Pauls</hi> before many hundreds, with a weak man (juſt as the Devil would have it) upon this <hi>Theſis, Jeſus Chriſt is the Almighty, or moſt high God;</hi> Where <hi>Biddle</hi> was the Opponent; and indeed very learned, witty and zealous he was to baffle all that heard him out of their Chriſtianity: The day being ſpent, that day ſeven-night
+<pb n="12" facs="tcp:115762:10"/>was appointed to carry on the Diſpute in the ſame place, to the heart-cutting of ſome that dearly love our Lord Jeſus, who carried in an Information of the whole unto his High<g ref="char:EOLhyphen"/>neſs and the Councel of State, humbly begging, that the ſaid <hi>Bidle,</hi> or any others, might not be ſuffered to propa<g ref="char:EOLhyphen"/>gate his or their Blaſphemous Aſſertions againſt the Sonne of God our Saviour, or his Laws, and Statutes, the holy Scriptures. Whereupon the Councel ſent an Order to S<hi rend="sup">r</hi> 
+                  <hi>Chriſtopher Pack,</hi> Lord Maior of <hi>London,</hi> to cauſe <hi>Biddle</hi> to be apprehended, which was honeſtly done by the Mar<g ref="char:EOLhyphen"/>ſhal of the City, and thereupon a City-Officer was ſent to acquaint the Honourable Councel, that <hi>Biddle</hi> was appre<g ref="char:EOLhyphen"/>hended, and to know their further pleaſure in the Caſe, who returned ſuch an anſwer as gave encouragement for the pro<g ref="char:EOLhyphen"/>ſecuting of him at the Common Law: Whereupon the Ordi<g ref="char:EOLhyphen"/>nance of the 2<hi rend="sup">d</hi> of <hi>May,</hi> 1648. entituled, <hi>An Ordinance of the Lords and Commons for the puniſhing of Blaſphemies and Hereſies,</hi> was pitcht upon as the only Law in force that would reach him, if any, for other Law againſt Blaſphemy none could be found (ſince the way of Convicting a Blaſ<g ref="char:EOLhyphen"/>phemer by Biſhops was at an end) except that againſt the Ranters, which would not reach him. And according to that Ordinance proceſs was made, one being bound to pro<g ref="char:EOLhyphen"/>ſecute, did exhibit theſe two Indictments againſt him.</p>
+               <floatingText xml:lang="eng" type="indictment">
+                  <body>
+                     <opener>
+                        <dateline>London ſſ. At the Gaol Delivery of Newgate, holden for the City of <hi>London,</hi> at Juſtice-Hall in the Old Bailey, <hi>London,</hi> 
+                           <date>On <hi>Wedneſday</hi> the fifth day of <hi>September,</hi> In the Year of our Lord, One thouſand ſix hundred fifty and five.</date>
+                        </dateline>
+                     </opener>
+                     <opener>
+                        <dateline>London ſſ.</dateline>
+                     </opener>
+                     <p>THe Jurors for the Lord Protector of the Common<g ref="char:EOLhyphen"/>wealth of <hi>England, Scotland</hi> and <hi>Ireland,</hi> &amp;c. upon their Oaths do preſent that <hi>John Biddle</hi> of <hi>London</hi> Gent not having the fear of God in his heart, nor the Laws of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> any whit regarding, the four and twentieth day of <hi>March,</hi> In the Year of our Lord, One thouſand ſix hun<g ref="char:EOLhyphen"/>dred fifty and five, at <hi>London,</hi> That is to ſay, in the Pariſh
+<pb n="13" facs="tcp:115762:10"/>of <hi>Gregories,</hi> in the Ward of <hi>Faringdon</hi> within <hi>London</hi> aforeſaid, out of his Devilliſh minde and Imagination, falſly, willingly and feloniouſly, did deviſe, compoſe and write a certain Heretical and Blaſphemous Book, entituled, <hi>A two fold Catechiſm, The one a Scripture-Catechiſm, the other, A brief Scripture Catechiſm for Children.</hi> In which ſaid Book, amongſt other things, the ſaid <hi>John Biddle</hi> then, that is to ſay, the ſaid four and twentieth day of <hi>March,</hi> in the ſaid Year of our Lord, one thouſand ſix hundred fifty and four, at the Pariſh and Ward afore-ſaid, falſly, Devil<g ref="char:EOLhyphen"/>liſhly and Feloniouſly did write, put, aſſert, affirm and maintain, <hi>That God is not preſent in all places, doth not know and for<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> kn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>w all things; That the Father, the Son, and the holy Ghoſt, are not one Eternal God; That Chriſt is not God equal with the Father; That the Godhead and Manhood of Chriſt are not ſeveral Natures; That the death of Chriſt is not meritorious in behalf of Believers.</hi> And the ſame Book afterwards, that is to ſay, the ſaid four and twentieth day of <hi>March,</hi> in the Year of our Lord, One thouſand ſix hundred fifty and four, there with the ſaid Errours, Hereſies and Blaſphemies aforeſaid therein con<g ref="char:EOLhyphen"/>tained, falſly, willingly, devilliſhly and feloniouſly, did imprint and publiſh, and cauſed to be imprinted, and pub<g ref="char:EOLhyphen"/>liſhed, with the intent to ſpread abroad within this Com<g ref="char:EOLhyphen"/>monwealth of <hi>England,</hi> the Errours, Hereſies, and Blaſ<g ref="char:EOLhyphen"/>phemies aforeſaid, to the high Diſhonour of Almighty God, to the great Danger of the growth and ſpreading of Hereſie and Blaſphemy within the Commonwealth of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> in Contempt of the Laws of <hi>England,</hi> againſt the Form of an Ordinance of the Lords and Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament for the publiſhing of Blaſphemies and Hereſies, made, publiſhed and ſet forth on <hi>Tueſday</hi> the ſe<g ref="char:EOLhyphen"/>cond day of <hi>May,</hi> In the Year of our Lord, One thouſand ſix hundred fourty and eight, and againſt the Publick Peace, <hi>&amp;c.</hi>
+                     </p>
+                     <closer>
+                        <signed>SADLER.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb n="14" facs="tcp:115762:11"/>
+               <floatingText xml:lang="eng" type="indictment">
+                  <body>
+                     <opener>
+                        <dateline>London ſſ. At the Gael-Delivery of Newgate, holden for the City of <hi>London,</hi> at Juſtice-Hall in the Old Bailey, <hi>London,</hi> 
+                           <date>On <hi>Wedneſday</hi> the fifth day of <hi>September,</hi> In the Year of our Lord, One thouſand ſix hundred fifty and five.</date>
+                        </dateline>
+                     </opener>
+                     <opener>
+                        <dateline>London ſſ.</dateline>
+                     </opener>
+                     <p>THe Jurors for the Lord Protector of the Common<g ref="char:EOLhyphen"/>wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> &amp;c. upon their Oaths do preſent, that <hi>John Biddle</hi> late of <hi>London</hi> Gent. not having the fear of God in his heart, nor the Laws of <hi>England</hi> any whit regarding, the eight and twentieth day of <hi>June,</hi> In the Year of our Lord, One thouſand ſix hun<g ref="char:EOLhyphen"/>dred fifty and five, at <hi>London,</hi> That is to ſay, in the Pariſh of <hi>Faiths,</hi> in the Ward of <hi>Faringdon</hi> within <hi>London</hi> aforeſaid, by Teaching publickly in the preſence and hear<g ref="char:EOLhyphen"/>ing of very many people, then and there preſent, Unlaw<g ref="char:EOLhyphen"/>fully, Willingly, Obſtinately, Devilliſhly and Feloniouſly did maintain and publiſh, <hi>That Jeſus Chriſt is not God; And that Jeſus Chriſt is not equal with God the Father;</hi> To the high Diſhonour of Almighty God, to the great Danger of the growth and ſpreading of Hereſie and Blaſ<g ref="char:EOLhyphen"/>phemy within this Commonwealth of <hi>England,</hi> in Contempt of the Laws of <hi>England,</hi> againſt the Form of an Ordinance of the Lords and Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament for the puniſhing of Blaſphemies and Hereſies, made, publiſhed and ſet forth on <hi>Tueſday</hi> the ſe<g ref="char:EOLhyphen"/>cond day of <hi>May,</hi> In the Year of our Lord, One thouſand ſix hundred fourty and eight, and againſt the Publick Peace, <hi>&amp;c.</hi>
+                     </p>
+                     <closer>
+                        <signed>SADLER.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb n="15" facs="tcp:115762:11"/>
+               <p>The Bils being found by the Grand Inqueſt, the Tryal began, Witneſſes ready; Among whom an eminent and worthy Gentleman of Publick Place was one, to evidence, That a Book which he brought with him from the Parlia<g ref="char:EOLhyphen"/>ment Records, that contained all the Blaſphemies charged upon him in the firſt Indictment, was that very individual Book, which he owned at the Barre of the laſt Parliament, as publiſhed by him. The Indictments were read, <hi>Biddle</hi> with much ado was prevailed with to plead, and obtained leave of the Court to put in his Exceptions to the two Bils of Indictment, ingroſſed in theſe words,</p>
+               <floatingText xml:lang="eng" type="legal_defense">
+                  <body>
+                     <opener>
+                        <dateline>London ſſ. At the gaol-delivery of newgate, holden for the City of <hi>London,</hi> at Juſtice-Hall in the Old-Bailey, <hi>London,</hi> 
+                           <date>on Wedneſday the fifth day of <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> In the Year of our Lord, One thouſand ſix hundred fifty and five.</date>
+                        </dateline>
+                     </opener>
+                     <head>Exceptions taken by <hi>John Biddle</hi> Gentleman, Priſoner at the Barre, to two Bils of Indictment preferred againſt him, grounded upon an Ordinance, entituled, <hi>An Or<g ref="char:EOLhyphen"/>dinance of the Lords and Commons aſſembled in Parliament, for the puniſhing of Blaſphemies and Hereſies. Dated</hi> Die Martis ſecundo Maii, 1648.</head>
+                     <p>Firſt, The Priſoner ſaith, <hi>That the ſaid Indictments are inſufficient, both in Matter and Form. becauſe they are grounded upon an Ordinance of Parliament, which is not binding longer than the Parliament ſitteth, and that Parlia<g ref="char:EOLhyphen"/>ment is long ſince diſſolved.</hi>
+                     </p>
+                     <p>Secondly, <hi>There is nothing of obſtinacy expreſſed in the Indictment, without which, though the Ordinance were of force, there is no Offence againſt it.</hi>
+                     </p>
+                     <p>Thirdly, <hi>The Ordinance, if it were of force, doth direct the offender to be indicted the next Gaol. Delivery, and there<g ref="char:EOLhyphen"/>fore this being the ſecond Gaol-Delivery after complaint and impriſonment, the Ordinance is not purſued by elapſing the time prefixed.</hi>
+                     </p>
+                     <pb n="16" facs="tcp:115762:12"/>
+                     <p>Fourthly, <hi>Though the Ordinance were admitted to binde after the Diſſolution of the Parliament; Yet the ſame Parliament, did after the ſaid Ordinance,</hi> viz. <hi>the ninth of</hi> Auguſt, 1650. <hi>make an Act againſt the ſame Opinions as are mentioned in the Ordinance, and therefore, if cauſe were, the priſoner may be proceeded againſt upon the Act, but cannot be proceeded againſt upon the ſaid Ordinance, which was precedent to the Act, and intended by the Parliament to expire with it ſelf.</hi>
+                     </p>
+                     <p>Fifthly, <hi>That although the ſaid ordinance had not expired with the Parliament that made it; Yet by the</hi> 38<hi rend="sup">th</hi> 
+                        <hi>Article of the Inſtrument of Government, the ſame Ordinance is made and eſteemed as null and void.</hi> 
+                     </p>
+                     <closer>
+                        <signed>Jo. Norbury, Moſes Keling, John Biddle.</signed>
+                        <signed>SADLER.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>This the Court having received, adjourn'd the further Trial of the Cauſe, untill the next Seſſions after: But two days before the ſaid next Seſſions, his Highneſs the Lord Pro<g ref="char:EOLhyphen"/>tector (poſſibly upon the ground before ſpecified) by a ſpecial Order, took him out of Newgate, and ſent him by a party of horſe to the Iſle of <hi>Silly,</hi> where no doubt he is kept a priſoner.</p>
+               <milestone type="tcpmilestone" unit="unspecified" rend="hr"/>
+               <p>IN the ſecond place, as to the Licentious Liberty of the Preſs, it may be affirmed, That there is no Law ſufficient to prevent the Printing and Publiſhing of Blaſphemous, He<g ref="char:EOLhyphen"/>retical and Obſcene Books, which I ſhall make out, as fol<g ref="char:EOLhyphen"/>loweth,</p>
+               <p>After the Decrees of Star-Chamber for regulating of the Preſs were null'd, the Lords and Commons put forth an Or<g ref="char:EOLhyphen"/>dinance, <hi>June</hi> 14<hi rend="sup">th</hi>, 1643. and therein ordained, That no Book, Pamphlet, Paper or Sheet be Printed, Bound, Stitcht, or put to ſale by any perſon or perſons whatſoever, unleſs the ſame be firſt approved of, and Licenſed under the hands of ſuch perſon or perſons, as both or either of the Houſes of Parliament ſhall appoint, and in the ſame Ordi<g ref="char:EOLhyphen"/>nance
+<pb n="17" facs="tcp:115762:12"/>did authorize certain perſons to make diligent ſearch in all ſuſpected places, for ſuch ſcandalous, unlicenſed Books, Papers, Pamphlets, and all other Books not entred in the Regiſter-Book of the Company of Stationers, or not ſigned with the Printers name, and the ſame to ſeize and carry away to the Stationers-Hall, there to remain at the diſpoſe of both or either of the Houſes of Parliament, and to apprehend the perſons imployed about them.</p>
+               <p>Afterward the Ordinance of Lords and Commons of <hi>Septemb.</hi> 28, 1647. Ordained theſe penalties on the Makers, Printers and Publiſhers of any Book, Pamphlet, Treatiſe, Ballet. Libel, Sheet, or Sheets of News, except the ſame be Licenſed, <hi>viz.</hi>
+               </p>
+               <p>Upon the Maker 2<hi rend="sup">lb</hi>, or fourty dayes impriſonment.</p>
+               <p>Upon the Printer 1<hi rend="sup">lb</hi>, or twenty dayes impriſonment, and the Preſſes to be broken in pieces.</p>
+               <p>The Bookſeller 10<hi rend="sup">•</hi>, or ten dayes impriſonment.</p>
+               <p>The Hawker or Pedler to loſe all the Books, and to be whipt.</p>
+               <p>Thus far the buſineſs grew better and better.</p>
+               <p>But <hi>Septemb.</hi> 20. 1649, the Parliament did enact, That whoever ſhall Write, Print, Publiſh, Sell or U<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter, or cauſe to be Made, Printed or Uttered any Scandalous or Libellous Books, Pamphlets, Papers or Pictures whatſoever, ſhall be pu<g ref="char:EOLhyphen"/>niſhed, <hi>viz.</hi>
+               </p>
+               <p>The Author 10<hi rend="sup">lb</hi>, or fourty dayes impriſonment.</p>
+               <p>The Printer 5<hi rend="sup">lb</hi>, or twenty dayes impriſonment, and his Preſs broken in pieces.</p>
+               <p>The Bookſeller 2<hi rend="sup">lb</hi>, or ten dayes impriſonment.</p>
+               <p>And repeals the penalties in the Ordinance, 1647. Not at all enjoyning the Licenſing of Books, as the former Or<g ref="char:EOLhyphen"/>dinances did, except only new books concerning the Parlia<g ref="char:EOLhyphen"/>ment and the Army.</p>
+            </div>
+            <div type="part">
+               <pb n="18" facs="tcp:115762:13"/>
+               <head>The Differences between the former Ordinances of Parliament, which are repealed, and the Act of Septemb. <hi>20. 1649.</hi>
+               </head>
+               <list>
+                  <head>The Ordinances.</head>
+                  <item>1. Provided, That nothing ſhould be printed under a penalty, that was not firſt Licenſed.</item>
+                  <item>2. The Ordinance did ap<g ref="char:EOLhyphen"/>point Licenſers for all Books.</item>
+                  <item>3. The Ordinance made the not Licenſing of a Book to be as a Judgement upon it, that it was a breach of the Law to print it, ſo that no man could plead igno<g ref="char:EOLhyphen"/>rance.</item>
+                  <item>4. The Ordinance per<g ref="char:EOLhyphen"/>mitted no Books whatſoever to be printed, untill Licenſed, though they had been entred (though indeed none in thoſe dayes were entred that were not firſt Licenſed.)</item>
+               </list>
+               <list>
+                  <head>The Act.</head>
+                  <item>1. The Act provides un<g ref="char:EOLhyphen"/>der a penalty, that only no News-Books be printed with<g ref="char:EOLhyphen"/>out Licence.</item>
+                  <item>2. The Act appoints none, for any but News-Books.</item>
+                  <item>3. The Act allows of the Printing and Publiſhing of any thing that ſhall not prove in the Judgement of the Councel of State, or two Juſtices of Peace, faulty, ſo that it fals out often, the Printer, Bookſeller or Wri<g ref="char:EOLhyphen"/>ter of a Book cannot certain<g ref="char:EOLhyphen"/>ly tell, whether his action in Writing, Printing or Publi<g ref="char:EOLhyphen"/>ſhing of a Book be unlawfull, untill it be ſo adjudg'd by the Councel of State, or two Juſtices of Peace, after the fault is committed.</item>
+                  <item>4. The Act permits all Books whatſoever to be printed, if they be but entred in the Stationers Regiſter-books, without any Licence, except News-books, and ac<g ref="char:EOLhyphen"/>cordingly Books are now en<g ref="char:EOLhyphen"/>tred, and not Licenſed.</item>
+               </list>
+               <pb n="19" facs="tcp:115762:13"/>
+               <p>Whence I infer, 1. That there is no Law in force for the ſufficient hindering of the Printing of Blaſphemous, He<g ref="char:EOLhyphen"/>retical and Scandalous Books.</p>
+               <p>If it be ſaid, That the Councel of State, or the Juſtices mentioned in the ſaid Act have power to hinder by judging a Book ſcandalous, <hi>&amp;c.</hi>
+               </p>
+               <p>The Anſwer is, It is acknowledg'd that they have, but they will not, they cannot leave their great imployments to repair to all Printing Houſes every week or oftner in their own perſons, and there ſtay and read all Books that are to be printed, and paſs an orderly judgement upon each, which they muſt do, if by the Acts in force they will hinder the printing of ſuch Books, and this as it never was done, ſo is it impoſſible to be done.</p>
+               <p n="2">2. That the late Orders of his Highneſs the Lord Prote<g ref="char:EOLhyphen"/>ctor to Major-General <hi>Barkstead,</hi> and others, to put in exe<g ref="char:EOLhyphen"/>cution the Acts and Ordinances againſt Blaſphemous, Here<g ref="char:EOLhyphen"/>tical, and S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ndalous Books, are altogether ineffectual, as to the ſuppreſſion of them, there being no ſuch Acts or Or<g ref="char:EOLhyphen"/>dinances indiſputably in force.</p>
+               <p>And now I am come to the third and laſt thing, which is,</p>
+               <p>That there is no Law againſt any mans being and doing almoſt what himſelf will in matters of Religion, and the con<g ref="char:EOLhyphen"/>cernments of his ſoul, he may learn the Principles of Reli<g ref="char:EOLhyphen"/>gion, or live in Ignorance, hear Gods Word, or reproach it, and the Miniſters thereof, yea and teach his children to revile them, go to Church, or ſtay, and fuddle, or ſleep at home, and teach all that are under him, or near unto him to be like himſelf, miſerable Atheiſts, ſlaves to the Devil, the world and the fleſh, ready to ſink into hell continually, and do not know or conſider of it; whence it comes to paſs, that millions of perſons ſeldom have the Word of Salvation preached unto them, they periſh for want of knowledge, all manner of wickedneſs ſpreading and growing like weeds that are let alone. Among all ſorts of people, rich and poor, young and old, who are prophane, ſeditious and uncivil? but thoſe of them for the moſt part that have no Teacher, but blinde, wilfull, conceited Self: Who are Blaſphemous and
+<pb n="20" facs="tcp:115762:14"/>Heretical, and Prophane? But thoſe who either had not good Teaching, or if they had, yet were at Liberty whether they would learn, or no: Whence is it that ſo many are ſo buſie in contriving and forming of parties and factions, yea in plotting Rebellion, and the diſturbance of the Publick? But becauſe they are not trained up in Chriſts ſchool, and im<g ref="char:EOLhyphen"/>ployed in learning the principles of Religion, the will of Gods Commands and Promiſes, yea compelled to hear and ſet themſelves to learn, that ſo their minds may be better exerciſed, and through Gods bleſſing their hearts wrought upon to be both good Chriſtians and good Sub<g ref="char:EOLhyphen"/>jects. And for ill manners, Who are the unruly crue, that have no command over either their tongues or hands, and that put the Magiſtrate to ſuch great trouble to keep men from ruining each other? but untaught people for the moſt part; What a vaſt charge do ſuch people put the Land too, to keep them quiet, and the innocent from being wronged by them? Whereas if all perſons were compelled to be under the rule of ſome good Teacher or other, How eaſily might (as we may hope through Gods bleſſing) one quarter of the Ma<g ref="char:EOLhyphen"/>giſtrates and Officers of the Land that are, govern the people, or the ſame number that are, govern them with one quarter of the trouble? Oh that theſe miſerable men were more pi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ied than they are! Many have taken compaſſion on the poor Indians in <hi>New-England,</hi> and with the concurrence of the Magiſtrate do uſe means for their converſion (a bleſſed work that deſerves the praiers and furtherance of all Gods people) and muſt the ungodly Chriſtians of <hi>Old-England,</hi> be negle<g ref="char:EOLhyphen"/>cted and caſt off the mean time? Are thoſe Indians more dear to us then the men of our own Land, and of our own bloud and bone? The Lord put it into the hearts of all the Lords people, both Magiſtrates, Miniſters and others, to pity poor ignorant ungodly ones, as well as take care of thoſe that are religious; thereby will God be honoured, ſouls ſa<g ref="char:EOLhyphen"/>ved, the Land bleſſed, themſelves comforted, when they ſhall, perceive how God hath enlarged their hearts deſire af<g ref="char:EOLhyphen"/>ter the advancement of the Kingdom of Jeſus Chriſt our Lord, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="21" facs="tcp:115762:14"/>
+               <head>An Humble Propoſal of the Remedies of the forementioned evils, and ſome more good work for a Parliament.</head>
+               <list>
+                  <head>That Laws may be made,</head>
+                  <item>I. AGainſt ſpeaking or printing the Blaſphemies mention<g ref="char:EOLhyphen"/>ed in the Act of <hi>Auguſt</hi> 9. 1650. and in the Ordi<g ref="char:EOLhyphen"/>nance of <hi>May</hi> 2. 1648. which were chiefly made againſt the Blaſphemies of the <hi>Ranters</hi> and <hi>Socinians.</hi>
+                  </item>
+                  <item>II. Againſt the Blaſphemies and Errors of the <hi>Quakers.</hi>
+                  </item>
+                  <item>III. Againſt reviling the Miniſtry and Ordinances of the Goſpel.</item>
+                  <item>IV. Againſt the printing or publiſhing any Book or ſheet in print (at leaſt Divinity) that is not firſt Licenſed by ſuch fit men, as by Authority ſhall be appointed for that end.</item>
+                  <item>V. Againſt Miniſters delivering the Sacrament to the groſly ignorant and ſcandalous.</item>
+               </list>
+               <list>
+                  <head>To the Encouragement of the Miniſtry and furtherance of the Goſpel.</head>
+                  <item>I. By confirming the Ordinances of his Highneſs for the ejecting of ſcandalous and inſufficient Miniſters.</item>
+                  <item>II. And the Ordinance for the dividing and joyning of Pariſhes, where need is.</item>
+                  <item>III. To impower ſome in every City and Market-Town in <hi>England,</hi> where the common Tythe of the place is not ſufficient to maintain the Miniſtry of the place, to reviſe, correct and augment the Pariſh-rols of the rates ſet up<g ref="char:EOLhyphen"/>on each houſe for the Maintenance of Miniſters, that there may be an equality, and a ſufficiency, and a ſtand<g ref="char:EOLhyphen"/>ing Power to rate men according to their houſes or e<g ref="char:EOLhyphen"/>ſtates, by ſome Rule or other.</item>
+               </list>
+               <p>The Reaſons of that motion are theſe.</p>
+               <p n="1">1. Moſt Pariſhes in <hi>London,</hi> and other Market-Towns, conſiſting of Merchants, Shop-keepers and handy-craft Tradeſmen, who hold no Lands, are ſufficient eaſily to main<g ref="char:EOLhyphen"/>tain a good Miniſter, and many of them two, or three, or four, the want is hearts, or a Law to order it ſo.</p>
+               <p n="2">2. Many Pariſhes have, through the Malignancy, care<g ref="char:EOLhyphen"/>leſneſs
+<pb n="22" facs="tcp:115762:15"/>and death of their Officers quite loſt their Tythe-Roll, ſo that nothing can be recovered by Law.</p>
+               <p n="3">3. Where Tythe Rols are and can be proved ancient and good in Law, yet there, many houſes upon new foundations are not aſſeſſed at all, and many houſes through the altering, bigning and leſſening of houſes are very unequally rated, inſomuch that many houſes of 10<hi rend="sup">lb</hi> 
+                  <hi>per annum,</hi> are rated at more than other houſes of 30<hi rend="sup">lb</hi> 
+                  <hi>per annum;</hi> and many a man that is worth but a hundred or two of pounds in mo<g ref="char:EOLhyphen"/>ney, debts and ware, rated at as much as ſome others that are worth twice ſo many thouſands of eſtate in the ſame kinde.</p>
+               <p n="4">4. By this means many very great Pariſhes may be divi<g ref="char:EOLhyphen"/>ded into more Pariſhes, and have means enough for Miniſters to them ſo divided, whereas now the means is but enough to maintain one.</p>
+               <p n="5">5. In one conſiderable City of this Nation, and it's pro<g ref="char:EOLhyphen"/>bable it is ſo in many more Cities and Market-Towns there is no Tythe-Roll at all, but all are at liberty, to give any thing or nothing, whereas if all were rated, Then</p>
+               <p n="6">6. A great part of the Augmentation-money, which is a bleſſed Gift, might be ſaved, or diſpoſed of to ſuch other places, that being Impropriate, or otherwiſe unable to maintain a Miniſter, are in great need of an Augmentation.</p>
+               <p n="3">III. A Law to compel all perſons whatſoever that are in health, to hear two Sermons of Gods Word every Lords Day from ſome approved Preacher or other, except ſuch as ſhall be allowed by a Juſtices Licence to ſtay at home to dreſs meat, or to look unto children or ſick perſons. For ſurely God would have men compell'd to hear that Word, whereby he uſeth to make men willing to be ſaved. Oh bleſ<g ref="char:EOLhyphen"/>ſed Severity, that drives undone men and women to hear tenders of grace and mercy from an offended God, that for<g ref="char:EOLhyphen"/>ces them from the very brink of Hell! How can ſinners be<g ref="char:EOLhyphen"/>lieve in Chriſt, unleſs they hear him preached? <hi>Without knowledge the heart cannot be good, and where there is no viſion the people periſh.</hi>
+               </p>
+               <p>The Officers of the Army in their Letter, from a general
+<pb n="23" facs="tcp:115762:15"/>meeting at <hi>Jameſes,</hi> Jan. 28. 1652. to all the Souldiers of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> Profeſs, <hi>That it is a duty very much incumbent upon them by all lawfull wayes and means to endeavour the procuring, That the Goſpel of Jeſus Chriſt may be diſpenſed to all the people of this Commonwealth.</hi> It was wor<g ref="char:EOLhyphen"/>thily ſaid of them. And no doubt but the Lord Protector, and the Parliament, do believe that the ſame duty is much more incumbent upon them, I know they will ſay ſo. The great Queſtion is, <hi>When may it be ſaid, that his Highneſs and the Parliament have by all lawful wayes and means endeavour<g ref="char:EOLhyphen"/>ed that all might hear the Goſpel? Is providing able, pious Miniſters all they can do?</hi> Ile tell a Story, A godly Citizen of <hi>London</hi> took to be his Apprentiſe an ignorant prophane Lad out of the Countrey, as void of Chriſt and grace, and of divine knowledge, as any Heathen; His Maſter was very inſtrumental in procuring to the Pariſh where he lived a Spi<g ref="char:EOLhyphen"/>ritual Soul-ſearching Miniſter, to his more than ordinary coſt, much hoping that God would bleſs it to the new mould<g ref="char:EOLhyphen"/>ing of his Servant, he tels him, what good means he had provided for him, if he would go and make uſe of it, and after he had gone once or twice, alas poor boy, his heart was oppoſite to ſuch holy matter, as preaching and praying, ſo he would come no more there; The Maſter queſtioned, Whether he had done all that was incumbent upon him to<g ref="char:EOLhyphen"/>ward the converſion of his ſervant, and reſolved, that to command and compel him conſtantly to hear the Miniſter, was his duty, which was done accordingly, and the Boy was converted, and became a very godly man, and ever after praiſed God for that good providence. What Chriſtian can or will blame this Maſter?</p>
+               <p>The Officers of the Army in their Gariſons (I am ſure at the Gariſon of <hi>Jameſes</hi>) do compell their Souldiers to hear the publick Sermons that are in thoſe Gariſons, even all ex<g ref="char:EOLhyphen"/>cept ſome Anabaptiſts, that (give cauſe to believe) do ſcru<g ref="char:EOLhyphen"/>ple it, as to theological Legality, and they are permitted to go to hear elſwhere. And how ſmartly have I ſeen the ſouldiers caned unto the Sermons in <hi>Weſtminſter</hi>-Abby. A pious work it was to drive dreaming idle ſots to the receipt of their
+<pb n="24" facs="tcp:115762:16"/>pay, if I may ſo allude, or rather of an Alms to keep them from periſhing. It is a good example for all in Authority, from the greateſt Prince and Parliament, to the meaneſt Ma<g ref="char:EOLhyphen"/>ſter or Parent. And I hope there is ſufficient reaſon to look upon his Highneſs the Lord Protector, as the chief appointer of ſuch Diſcipline in the Army, and then he will not deny it in the Commonwealth.</p>
+               <p>Object. <hi>This is againſt Liberty of Conſcience:</hi> No ſuch matter, it's againſt Liberty of being as bad as men will, but not againſt their Liberty of being as good as they will. If nei<g ref="char:EOLhyphen"/>ther Anabaptiſt, Presbyterian or Independent Miniſter will ſerve them, their Conſciences are not tender in any ſenſe, but ſeared, Papiſts and Jews excepted; And how can it be againſt their Conſciences, or any others, to hear a Sermon or an Oration only, of what Doctrine ſoever, where a pro<g ref="char:EOLhyphen"/>feſſion of their aſſent is not required, untill from inward conviction they do it willingly? Indeed they had more to ſay againſt it, if they were compelled to be at our worſhip of God, or Sacrament, where it is ſuppoſed all ſay <hi>Amen,</hi> to what is ſaid or done.</p>
+               <p n="4">IV. A Law to compell all Perſons, if it may be; if not, then all under ſuch an Age (for if Gods ſervants cannot have what they would, they muſt be thankfull for what they can get, better ſome be looked after then none at all) to learn a good Catechiſm, and to attend upon the Miniſter of the Congregation to which they belong, if a Member either of an Independent or Anabaptiſt Church, otherwiſe upon the Miniſter of the Pariſh where they live, if there be one approved of there, at ſuch time and times, as the Mi<g ref="char:EOLhyphen"/>niſter ſhall either viſit them, or ſend for them, and give him an account of their learning and progreſs in the myſteries of the Goſpel, and ſubmit to his teaching and inſtructing of them, ſo often as he ſhall take the pains to deal perſonally with them, that ſo Miniſters may be encouraged to do that, which probably would do a world of good to millions that now reap but very little benefit by their Miniſtry. Without all controverſie the Devil and the Pope will rage at theſe two laſt things, if they were done, and then they muſt needs
+<pb n="25" facs="tcp:115762:16"/>be well-pleaſing to God, and his righteous ſeed, that de<g ref="char:EOLhyphen"/>ſire nothing more in ſubordination to Gods glory, and in conjunction with their own happineſs, than the converſion of ſinners; Yea, it would be a greater mercy to this Com<g ref="char:EOLhyphen"/>monwealth, than the gaining an hundred millions of gold from that grand enemy of our Nation and Religion the <hi>Spaniard.</hi>
+               </p>
+               <p>And thus having caſt in my poor Mite toward the repair of the Temple, I deſire that what I have writ may be looked upon but only as the work of a Remembrancer, to thoſe, who, I hope, will do all theſe things in their own way, me<g ref="char:EOLhyphen"/>thod and time, according to the wiſdom which Almighty God hath given them, and the piety which he and his ſer<g ref="char:EOLhyphen"/>vants expect from them. And in regard I plead for no par<g ref="char:EOLhyphen"/>ticular intereſt, but the general intereſt of Proteſtants, which lieth in theſe two things, <hi>The increaſe of their number, and their Liberty and Agreement,</hi> I cannot but promiſe my ſelf, if not acceptance, yet pardon from my Governours for what weakneſſes ſhall be found among theſe overflowings of my love to Jeſus Chriſt and his Kingdom, to whom I have made my prayer, that he will be pleaſed to direct and encl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne the Lord Protector and the Parliament to do in the premiſſes in ſuch wiſe as may be anſwerable to their Allegi<g ref="char:EOLhyphen"/>ance to his Majeſty, who is the King of Kings, and Judge of all, even God bleſſed for evermore, To whom with the Father and the holy Ghoſt, three Perſons, but one God, be everlaſting Thankſgiving and Obedience. <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
